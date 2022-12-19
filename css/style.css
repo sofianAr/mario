@@ -1,0 +1,28 @@
+body, html {
+  background-color: rgb(33, 174, 36);
+  height: 100%;
+  overflow: hidden;
+}
+
+#perso{
+  position:absolute;
+}
+
+#piece{
+  position:absolute;
+  
+}
+
+#gameover{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  
+}
+#secondes{
+text-align: center;
+}
+#score{
+  text-align: center;
+}
